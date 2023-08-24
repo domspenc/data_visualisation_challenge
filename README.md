@@ -36,4 +36,6 @@ This repository showcases a python pandas analysis of a study done at Pymaceutic
 <p>Thank you for reading!</p> 
 <h3>🐁🐁🐁</h3>
 </br>
-<p>Image by Adobe Stock Images, seen on spectrumnews.org</p> 
+<p>NB: I leaned on numerous sources for troubleshooting and help, including AskBCS (for IQR section), websites including Stack Overflow (particularly for 'isin' and 'duplicated' functions) and Python/Matplotlib/Pandas documentation sites. </p>
+</br>
+<p>Image by Adobe Stock Images, seen on spectrumnews.org</p>
