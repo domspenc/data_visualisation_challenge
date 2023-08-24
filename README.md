@@ -24,7 +24,7 @@ This repository showcases a python pandas analysis of a study done at Pymaceutic
 <p>- All data was split across two separate csv files, which were merged then cleaned to create a more usable, single dataset.</p> 
 </br>
 </br>
-<h5>Below, you will see some observable trends identified after analysis of the data.</h5>
+<p>Below, you will see some observable trends identified after analysis of the data.</p>
 </br>
 <h3>Observable Trends</h3>
 </br> 
